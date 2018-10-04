@@ -8,3 +8,5 @@ readStates <- function(states)
 
     return(states)
 }
+
+cleanCensus <- readStates(raw_data)
